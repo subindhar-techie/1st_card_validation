@@ -1,4 +1,8 @@
+<<<<<<< HEAD
 #main file
+=======
+#Main File
+>>>>>>> 78f11acf2cd6fbe4f087d05c1edbb8b87d1325f3
 import tkinter as tk
 from tkinter import messagebox
 import sys
